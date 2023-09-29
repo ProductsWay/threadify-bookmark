@@ -3,7 +3,7 @@ module encore.app
 go 1.18
 
 require (
-	encore.dev v1.25.0
+	encore.dev v1.27.0
 	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20200714003250-2b9c44734f2b // indirect
